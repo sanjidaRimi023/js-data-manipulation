@@ -43,3 +43,8 @@ queue.print();
 console.log(queue.peek()); // 30
 console.log(queue.dequeue()); // 30
 queue.print();
+
+
+
+
+console.log("c output",c)
